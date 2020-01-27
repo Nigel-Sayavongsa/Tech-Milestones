@@ -1,0 +1,18 @@
+*{
+    background-color: #BFBFBF;
+}
+.left-side {
+    float: left;
+    width: 50%;
+    display: block;
+}
+
+.right-side {
+    float: left;
+    width: 50%;
+    display: block;
+}
+
+.right-side img {
+    width: 100%;
+}
